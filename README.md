@@ -36,7 +36,7 @@ Open the karios_bot.py file in a text editor and replace 'Bearer XXXXXXXXXXXXXXX
 
 ## Usage
 Making a Query
-To interact with Karios Bot, you can navigate to the URL below where the bot has been hosted. 
+To interact with Karios Bot, you can navigate to the URL below, where the bot has been hosted. 
 
 [Click here to access the bot]("https://mediafiles.botpress.cloud/e162efd6-df50-4ef7-a27e-072ca583a597/webchat/bot.html")
 
